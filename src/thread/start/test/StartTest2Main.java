@@ -1,6 +1,6 @@
 package thread.start.test;
 
-import static thread.util.MyLogger.*;
+import static util.MyLogger.*;
 
 public class StartTest2Main {
 
